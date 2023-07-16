@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 👨‍💻 All of my projects are available at 
 
 
-**📫 How to reach me**
+## 📫 How to Reach Me
 
-<p>vineet.vinusingh36@gmail.com</p>
+- Email: vineet.vinusingh36@gmail.com
+- Portfolio: 
+- LinkedIn: [Vineet Singh](www.linkedin.com/in/vineet-singh-712220160)
 
 
 📄 Know about my experiences- Resume []()
