@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 
 **📫 How to reach me**
-vineet.vinusingh36@gmail.com
+
+<p>vineet.vinusingh36@gmail.com</p>
+
 
 📄 Know about my experiences- Resume []()
 
