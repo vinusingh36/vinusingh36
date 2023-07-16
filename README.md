@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 👨‍💻 All of my projects are available at 
 
-💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java**
 
-📫 How to reach me **vineet.vinusingh36@gmail.com**
+##📫 How to reach me 
+**vineet.vinusingh36@gmail.com**
 
 📄 Know about my experiences- Resume []()
 
