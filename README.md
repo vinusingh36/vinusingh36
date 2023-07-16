@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - Email: vineet.vinusingh36@gmail.com
 - Portfolio: 
-- LinkedIn: [Vineet Singh](www.linkedin.com/in/vineet-singh-712220160)
+- LinkedIn: [Vineet Singh](https://www.linkedin.com/in/vineet-singh-712220160)
 
 
 📄 Know about my experiences- Resume []()
