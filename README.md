@@ -33,10 +33,10 @@ An aspiring Frontend web developer passionate about building web applications. W
 - LinkedIn: [Vineet Singh](https://www.linkedin.com/in/vineet-singh-712220160)
 
 
-📄 Know about my experiences- Resume []()
+📄 Know about my experiences- Resume [](https://drive.google.com/file/d/1m8f8TrGJTG9tyXazIZ_mudaSbxpkssrL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p></p>
+<p>+91 9161822021</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
