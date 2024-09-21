@@ -31,11 +31,11 @@ An aspiring Frontend web developer passionate about building web applications. W
 ## 📫 How to Reach Me
 
 - Email: vineet.vinusingh36@gmail.com
-- Portfolio: 
+- Portfolio: [Vineet Singh](https://vinusingh36.github.io/)
 - LinkedIn: [Vineet Singh](https://www.linkedin.com/in/vineet-singh-712220160)
 
 
-📄 Know about my experiences- [Resume](https://drive.google.com/file/d/1m8f8TrGJTG9tyXazIZ_mudaSbxpkssrL/view?usp=sharing)
+📄 Know about my experiences- [Resume](https://drive.google.com/file/d/13eWhumE1QYSRZW2KpVTw1RQMGfKO_-0a/view)
 
 <h3 align="left">Connect with me:</h3>
 <p>+91 9161822021</p>
