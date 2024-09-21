@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi,I'm Vineet Singh</h1>
 <p>About Me</p>
-An aspiring Frontend web developer passionate about building web applications. Welcome to my GitHub profile! Here you'll find some of my projects and  contributions. Feel free to explore and connect with me.  
-
+A front-end web developer with 3+ years of experience. Capable of writing production-ready code using
+React, Redux, and CSS on the front-end. Passionate about coding and strongly interested in working in a
+fast-paced environment. Keen to collaborate with peers and develop user-centric products.  
 <br/>
 <img align="right" alt="coding" width="45%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vkgt7h9zc3dlpv6pxy6qx062eti6jpiiexs4nlij&rid=giphy.gif&ct=g">
 
