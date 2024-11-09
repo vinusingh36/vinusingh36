@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi,I'm Vineet Singh</h1>
 <p>About Me</p>
-A front-end web developer with 3+ years of experience. Capable of writing production-ready code using
+A front-end web developer with 4+ years of experience. Capable of writing production-ready code using
 React, Redux, and CSS on the front-end. Passionate about coding and strongly interested in working in a
 fast-paced environment. Keen to collaborate with peers and develop user-centric products.  
 <br/>
